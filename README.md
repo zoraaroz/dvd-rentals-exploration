@@ -12,4 +12,5 @@ The SQL code uses the data from the DVD rental sample database. It answers some 
 * SQL_queries.sql
 * SQL_project.pdf
 
+### License
 The contents of this repository are covered under the [MIT License](https://github.com/zoraaroz/udacity-sql-project/blob/master/LICENSE).
